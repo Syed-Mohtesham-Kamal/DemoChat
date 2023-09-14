@@ -1,0 +1,200 @@
+{
+  "conversation_list": [
+    {
+      "contactName": "Raj",
+      "lastMessage": "Last message sent by Raj",
+      "lastTime": "19:15",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Do we have class at the college today?"
+        },
+        {
+          "me": false ,
+          "message": "No, only tomorrow. Don't forget the assignments..."
+        }
+      ]
+    },
+    {
+      "contactName": "Sneha",
+      "lastMessage": "Last message sent by Sneha",
+      "lastTime": "05:43",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "Have you seen that series that's trending on Netflix?"
+        },
+        {
+          "me": true ,
+          "message": "Yes, I have. I think it's amazing and I can't wait for the next season!!!"
+        }
+      ]
+    },
+    {
+      "contactName": "Anita",
+      "lastMessage": "Last message sent by Anita",
+      "lastTime": "11:22",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "All good, and you?"
+        },
+        {
+          "me": false ,
+          "message": "Are you coming to the barbecue tomorrow?"
+        }
+      ]
+    },
+    {
+      "contactName": "Pradeep",
+      "lastMessage": "Last message sent by Pradeep",
+      "lastTime": "10:36",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "All good, and you?"
+        },
+        {
+          "me": false ,
+          "message": "Are you coming to the barbecue tomorrow?"
+        }
+      ]
+    },
+    {
+      "contactName": "Priya",
+      "lastMessage": "Last message sent by Priya",
+      "lastTime": "14:15",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "All good, and you?"
+        },
+        {
+          "me": false ,
+          "message": "Are you coming to the barbecue tomorrow?"
+        }
+      ]
+    },
+    {
+      "contactName": "Rohit",
+      "lastMessage": "Last message sent by Rohit",
+      "lastTime": "17:27",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "All good, and you?"
+        },
+        {
+          "me": false ,
+          "message": "Are you coming to the barbecue tomorrow?"
+        }
+      ]
+    },
+    {
+      "contactName": "Rahul",
+      "lastMessage": "Last message sent by Rahul",
+      "lastTime": "18:16",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "All good, and you?"
+        },
+        {
+          "me": false ,
+          "message": "Are you coming to the barbecue tomorrow?"
+        }
+      ]
+    },
+    {
+      "contactName": "Meera",
+      "lastMessage": "Last message sent by Meera",
+      "lastTime": "07:24",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "All good, and you?"
+        },
+        {
+          "me": false ,
+          "message": "Are you coming to the barbecue tomorrow?"
+        }
+      ]
+    },
+    {
+      "contactName": "Aisha",
+      "lastMessage": "Last message sent by Meera",
+      "lastTime": "07:24",
+      "image": "avatar.jpg",
+      "messageHistory": [
+        {
+          "me": true ,
+          "message": "Hello, are you doing well?"
+        },
+        {
+          "me": false ,
+          "message": "All good, and you?"
+        },
+        {
+          "me": false ,
+          "message": "Are you coming to the barbecue tomorrow?"
+        }
+      ]
+    },
+    {
+    "contactName": "Reddy",
+    "lastMessage": "Last message sent by Meera",
+    "lastTime": "07:24",
+    "image": "avatar.jpg",
+    "messageHistory": [
+      {
+        "me": true ,
+        "message": "Hello, are you doing well?"
+      },
+      {
+        "me": false ,
+        "message": "All good, and you?"
+      },
+      {
+        "me": false ,
+        "message": "Are you coming to the barbecue tomorrow?"
+      }
+    ]
+  }
+  ]
+} 
